@@ -16,7 +16,7 @@ html {
     height: 500px;
     border: 1px solid black;
     display: block;
-    background-image: url('travel.jpg');
+    background-image: url('.travel.jpg');
 }
 
 #kuy {
